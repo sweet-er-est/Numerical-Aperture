@@ -1,0 +1,74 @@
+body {
+
+    background-image: url("8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left:2%;
+    margin-right:2%;
+}
+
+img {
+    background-color: black;
+    float: right;
+    height: 400px;
+    width: 500px;
+    border-width: 20px;
+    border-radius: 20px;
+}
+
+.head { FOnt-size: 80px;
+    text-align:center;
+    text-decoration:underline;
+    font-family:"Raleway";
+    color: rgb(255, 247, 97);
+
+}
+
+.ques {
+    font-family:"Times New Roman";
+    font-size:50px;
+    color: white;
+
+}
+
+.info1{
+    font-size:30px;
+    color:bisque;
+    text-indent:2px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+
+.info2{
+    font-size:30px;
+    color:bisque;
+    text-align:center;
+    text-indent:2px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
+.info3{
+    font-size:30px;
+    color:bisque;
+    text-indent:2px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+.for{
+    font-size:30px;
+    color:bisque;
+    text-align:center;
+    border-width: 5px;
+    border-color: aqua;
+    font-style: normal;
+    font-weight:bolder;
+    
+}
+.btn{
+    height: 70px;
+    width: 200px;
+    background-color: aquamarine;
+    border-width: 5px;
+    border-color: rgb(150, 239, 151);
+    font-size:30px;
+} 
